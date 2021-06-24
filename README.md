@@ -5,6 +5,6 @@
   <b>C</b>, <b>Python</b>, <b>Javascript</b>, <b>Typescript</b>, <b>SQL</b>, <b>Node.js</b>, <b>Express.js</b>, <b>React.js</b>, <b>Redux</b>, etc...
 </samp></p>
 
-<p><samp>Si le interesa saber mas sobre mi le dejo <a href="https://www.linkedin.com/in/nahuel-lugones/">Mi perfil de Linkedin</a>.</samp></p>
+<p><samp>Si le interesa saber mas sobre mi le dejo <a href="https://www.linkedin.com/in/nahuel-lugones/">Mi perfil de Linkedin</a> y mi Email <b>nahuecroc@gmail.com</b>.</samp></p>
 
 <p><samp> Saludos! </p></samp>
