@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Application Security**
 
-- 👨‍💻 All of my projects are available at [Comming soon...](Comming soon...)
+- 👨‍💻 All of my projects are available at (Comming soon...)
 
 - 📫 How to reach me **nahuecroc@gmail.com**
 
