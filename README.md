@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
-<h3 align="center">A Fullstack developer, Computer Science student and Cybersecurity enthusiast</h3>
+<h3 align="center">A Fullstack developer, Computer Science student and Cybersecurity enthusiast from Argentina</h3>
 
 - 🔭 I’m currently working on **Web Development (PERN Stack)**
 
