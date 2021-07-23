@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development (PERN Stack)**
 
-- 🌱 I’m currently learning **React Native, Application Security**
+- 🌱 I’m currently learning **React Native And Django**
 
 - 👨‍💻 My first proyect <a href="https://github.com/Astr0b0i/Food-App">Food-App</a> 
 
